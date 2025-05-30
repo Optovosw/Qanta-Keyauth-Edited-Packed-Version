@@ -1,0 +1,2 @@
+D:\GithubNew\2\Keyauth2\KeyAuth2\Qanta-Keyauth\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\2\Keyauth2\KeyAuth2\Qanta-Keyauth\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
